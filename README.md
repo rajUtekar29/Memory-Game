@@ -1,6 +1,6 @@
-   Memory Card Game
+Memory Card Game
 
-     Introduction  
+Introduction  
 The Memory Card Game is a web-based puzzle designed to challenge players' memory and logic skills. Built using   HTML  ,   CSS  ,   JavaScript  , and   TypeScript  , it offers a fun and engaging way to enhance front-end development expertise while delivering an interactive gaming experience.
 
 Features  
